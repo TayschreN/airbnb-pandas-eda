@@ -81,7 +81,7 @@ Nota-se forte crescimento até 2015, seguido por desaceleração no número de n
 
 ### 📌 Evolução do Preço Médio ao Longo do Tempo
 
-![Evolução do Preço Médio](evolucao_preco.png)
+![Evolução do Preço Médio](preco_medio.png)
 
 Após 2015, o preço médio apresenta tendência de crescimento, possivelmente associado à restrição de oferta.
 
@@ -138,3 +138,4 @@ Este projeto demonstra:
 - Interpretação orientada a negócio
 
 A análise oferece uma visão clara sobre os fatores que influenciam a precificação e como regulações podem afetar mercados digitais.
+
