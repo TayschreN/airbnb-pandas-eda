@@ -7,14 +7,7 @@ Nesse projeto, foi buscado analisar os anúncios da cidade de Paris com foco em 
 O objetivo foi criar um **resumo visual dos principais fatores que impactam a precificação** e avaliar se as regulamentações adotadas em 2015 influenciaram o mercado de locação de curta duração na cidade.
 
 ---
-
-## Créditos:
-
-Este projeto foi inspirado por uma aula no YouTube que me ajudou a aprender os passos importantes de EDA com Pandas e visualização de dados.
-
-Tutorial: https://www.youtube.com/watch?v=fwOU0lfreu8
-
-As análises e interpretações apresentadas aqui refletem meu entendimento e aplicação prática dos conceitos aprendidos.
+![Graph](preco_medio.png)
 
 ---
 
@@ -55,7 +48,7 @@ As análises e interpretações apresentadas aqui refletem meu entendimento e ap
 
 ## Visualizações:
 
-### 📌 Preço Médio por Bairro
+### Preço Médio por Bairro:
 
 ![Preço Médio por Bairro](preco_bairro.png)
 
@@ -63,7 +56,7 @@ Observa-se grande variação de preços entre os bairros, com regiões centrais 
 
 ---
 
-### 📌 Preço Médio por Capacidade de Acomodação
+### Preço Médio por Capacidade de Acomodação:
 
 ![Preço Médio por Capacidade](preco_capacidade.png)
 
@@ -71,7 +64,7 @@ Há uma relação positiva entre número de hóspedes e preço médio, indicando
 
 ---
 
-### 📌 Crescimento de Novos Anúncios ao Longo do Tempo
+### Crescimento de Novos Anúncios ao Longo do Tempo:
 
 ![Novos Anúncios](novos_anuncios.png)
 
@@ -79,7 +72,7 @@ Nota-se forte crescimento até 2015, seguido por desaceleração no número de n
 
 ---
 
-### 📌 Evolução do Preço Médio ao Longo do Tempo
+### Evolução do Preço Médio ao Longo do Tempo:
 
 ![Evolução do Preço Médio](preco_medio.png)
 
@@ -87,7 +80,7 @@ Após 2015, o preço médio apresenta tendência de crescimento, possivelmente a
 
 ---
 
-### 📌 Impacto das Regulamentações de 2015
+### Impacto das Regulamentações de 2015:
 
 ![Impacto 2015](impacto_2015.png)
 
@@ -137,5 +130,13 @@ Este projeto demonstra:
 - Construção de visualizações estratégicas
 - Interpretação orientada a negócio
 
-A análise oferece uma visão clara sobre os fatores que influenciam a precificação e como regulações podem afetar mercados digitais.
+- --
+## Créditos:
+
+Este projeto foi inspirado por uma aula no YouTube que me ajudou a aprender os passos importantes de EDA com Pandas e visualização de dados.
+
+Tutorial: https://www.youtube.com/watch?v=fwOU0lfreu8
+
+As análises e interpretações apresentadas aqui refletem meu entendimento e aplicação prática dos conceitos aprendidos.
+
 
