@@ -1,4 +1,4 @@
-# Análise do Mercado Airbnb em Paris (Utilizando Pandas) - Análise Exploratória de Dados 
+# Análise do Mercado Airbnb em Paris (Pandas) - Análise Exploratória de Dados 
 
 ## Visão Geral do Projeto:
 
@@ -138,5 +138,6 @@ Este projeto foi inspirado por uma aula no YouTube que me ajudou a aprender os p
 Tutorial: https://www.youtube.com/watch?v=fwOU0lfreu8
 
 As análises e interpretações apresentadas aqui refletem meu entendimento e aplicação prática dos conceitos aprendidos.
+
 
 
